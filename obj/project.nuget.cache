@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sv/RJ1GThPM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas Moura\\source\\repos\\BibliotecaPTC\\BibliotecaPTC\\BibliotecaPTC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas Moura\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.304\\microsoft.net.sdk.compilers.toolset.9.0.304.nupkg.sha512"
+  ],
+  "logs": []
+}

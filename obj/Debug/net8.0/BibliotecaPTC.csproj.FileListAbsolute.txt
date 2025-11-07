@@ -1,0 +1,14 @@
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\obj\Debug\net8.0\BibliotecaPTC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\obj\Debug\net8.0\BibliotecaPTC.AssemblyInfoInputs.cache
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\obj\Debug\net8.0\BibliotecaPTC.AssemblyInfo.cs
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\obj\Debug\net8.0\BibliotecaPTC.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\bin\Debug\net8.0\BibliotecaPTC.exe
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\bin\Debug\net8.0\BibliotecaPTC.deps.json
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\bin\Debug\net8.0\BibliotecaPTC.runtimeconfig.json
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\bin\Debug\net8.0\BibliotecaPTC.dll
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\bin\Debug\net8.0\BibliotecaPTC.pdb
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\obj\Debug\net8.0\BibliotecaPTC.dll
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\obj\Debug\net8.0\refint\BibliotecaPTC.dll
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\obj\Debug\net8.0\BibliotecaPTC.pdb
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\obj\Debug\net8.0\BibliotecaPTC.genruntimeconfig.cache
+C:\Users\Lucas Moura\source\repos\BibliotecaPTC\BibliotecaPTC\obj\Debug\net8.0\ref\BibliotecaPTC.dll
