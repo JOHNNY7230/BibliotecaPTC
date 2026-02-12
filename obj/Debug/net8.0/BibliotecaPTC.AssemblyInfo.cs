@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaPTC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a04e309e27350efca6be07ce35708f8a304c6651")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaPTC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaPTC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

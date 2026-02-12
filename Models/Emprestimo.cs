@@ -13,5 +13,7 @@ namespace BibliotecaPTC.Models
         public int LivroId { get; set; }
         public DateTime DataEmprestimo { get; set; } = DateTime.Now;
         public DateTime? DataDevolucao { get; set; }
+        public Usuario? Usuario { get; set; }
+        public Livro? Livro { get; set; }
     }
 }
